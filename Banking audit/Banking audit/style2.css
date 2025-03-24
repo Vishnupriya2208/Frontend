@@ -1,0 +1,43 @@
+
+
+.text-head{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.wrapper{
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.wapper-FC{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.btn-fc{
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.wapper-AD{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.btn-AD{
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.wapper-PS{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.btn-PS{
+    padding: 10px;
+    border-radius: 50px;
+}
